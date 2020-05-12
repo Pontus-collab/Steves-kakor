@@ -1,5 +1,4 @@
 # Steves-kakor
-Steve har goda kakor 
 <!DOCTYPE html>
 <html>
 <body>
@@ -35,9 +34,8 @@ Steve har goda kakor
 <h2>HTML Images</h2>
 <p>HTML images are defined with the img tag:</p>
 
-<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+<[image of cookies1] src="" alt="W3Schools.com" width="104" height="142">
 
-</body>
 </html>
 <!DOCTYPE html>
 <html>
