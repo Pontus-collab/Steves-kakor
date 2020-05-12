@@ -4,17 +4,15 @@ Steve har goda kakor
 <html>
 <body>
 
-<h1>My Steves kakor</h1>
-
-<p>My Välkommen till Steves kakor.</p>
+<p>Välkommen till Steves kakor.</p>
 
 <!DOCTYPE html>
 <html>
 <body>
 
 <h1>Välkommen till Steves kakor</h1>
-<h2>Om du har särskilda allergier så kan du skriva det samtidigt som du gör din beställning</h2>
-<h3>This is heading 3</h3>
+<h2>Om du har särskilda allergier så kan du</h2>
+<h3>skriva det samtidigt som du gör din beställning</h3>
 
 </body>
 </html>
@@ -48,18 +46,11 @@ Steve har goda kakor
 <h2>An Unordered HTML List</h2>
 
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Kakor</li>
+  <li>Te</li>
 </ul>  
 
 <h2>An Ordered HTML List</h2>
-
-<ol>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ol> 
 
 </body>
 </html>
@@ -81,7 +72,7 @@ Steve har goda kakor
 <h2>HTML Links</h2>
 <p>HTML links are defined with the a tag:</p>
 
-<a href="https://www.w3schools.com">This is a link</a>
+<a href="https://www.lovethispic.com/image/84905/soft-chocolate-chip-cookies">This is a link</a>
 
 </body>
 </html>
