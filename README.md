@@ -34,8 +34,7 @@
 <h2>HTML Images</h2>
 <p>HTML images are defined with the img tag:</p>
 
-<[image of cookies1] src="" alt="W3Schools.com" width="104" height="142">
-
+![Image of cookies1](https://www.lovethispic.com/uploaded_images/84905-Soft-Chocolate-Chip-Cookies.jpg)
 </html>
 <!DOCTYPE html>
 <html>
