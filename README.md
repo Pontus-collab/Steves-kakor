@@ -1,2 +1,87 @@
 # Steves-kakor
 Steve har goda kakor 
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My Steves kakor</h1>
+
+<p>My Välkommen till Steves kakor.</p>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Välkommen till Steves kakor</h1>
+<h2>Om du har särskilda allergier så kan du skriva det samtidigt som du gör din beställning</h2>
+<h3>This is heading 3</h3>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<body>
+<button>Kontakta oss</button>
+<button>Kakor</button>
+<button>frågor och svar</button>
+<button>prislista</button>
+<button>Specialbeställ</button>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Images</h2>
+<p>HTML images are defined with the img tag:</p>
+
+<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>An Unordered HTML List</h2>
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>  
+
+<h2>An Ordered HTML List</h2>
+
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol> 
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Images</h2>
+<p>HTML images are defined with the img tag:</p>
+
+<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Links</h2>
+<p>HTML links are defined with the a tag:</p>
+
+<a href="https://www.w3schools.com">This is a link</a>
+
+</body>
+</html>
