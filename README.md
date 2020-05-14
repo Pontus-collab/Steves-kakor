@@ -57,12 +57,7 @@
 <html>
    
    <head>
-      <title>HTML Backgorund Color</white>
-   </head>
-   <body style="background-color:pink;">
-      <h1>Products</h1>
-      <p>We have developed more than 10 products till now.</p>
-   </body>
+      
 </html>
 <h2>HTML Images</h2>
 <p>HTML images are defined with the img tag:</p>
