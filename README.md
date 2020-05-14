@@ -57,9 +57,9 @@
 <html>
    
    <head>
-      <title>HTML Backgorund Color</title>
+      <title>HTML Backgorund Color</white>
    </head>
-   <body style="background-color:grey;">
+   <body style="background-color:pink;">
       <h1>Products</h1>
       <p>We have developed more than 10 products till now.</p>
    </body>
