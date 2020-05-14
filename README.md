@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-
+#808080
 <p>Välkommen till Steves kakor.</p>
 
 <!DOCTYPE html>
