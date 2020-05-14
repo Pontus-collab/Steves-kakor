@@ -39,7 +39,7 @@ code {
     font-size: 15px;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
-    background-color: #eef;
+    background-color: #808080;
 }
 
 ![Image of cookies1](https://www.lovethispic.com/uploaded_images/84905-Soft-Chocolate-Chip-Cookies.jpg)
