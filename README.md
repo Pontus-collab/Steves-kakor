@@ -33,11 +33,7 @@
 
 
 ![Image of cookies1](https://www.lovethispic.com/uploaded_images/84905-Soft-Chocolate-Chip-Cookies.jpg)
-<!-- template -->
-{{ /assets/steam-fish-1.jpeg:img?width=220 alt='steam-fish-1' }}
 
-<!-- output -->
-<a href="/assets/steam-fish-1.jpeg" width='220' height='200' alt='steam-fish-1'>
 
 </html>
 <!DOCTYPE html>
