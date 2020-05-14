@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-#808080
+
 <p>Välkommen till Steves kakor.</p>
 
 <!DOCTYPE html>
@@ -53,7 +53,17 @@
 <!DOCTYPE html>
 <html>
 <body>
-
+<!DOCTYPE html>
+<html>
+   
+   <head>
+      <title>HTML Backgorund Color</title>
+   </head>
+   <body style="background-color:grey;">
+      <h1>Products</h1>
+      <p>We have developed more than 10 products till now.</p>
+   </body>
+</html>
 <h2>HTML Images</h2>
 <p>HTML images are defined with the img tag:</p>
 
